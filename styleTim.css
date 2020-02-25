@@ -1,0 +1,13 @@
+/* CSS STYLE-SHEET */
+
+#block10 body {
+color: black;
+background-color: cornsilk;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+#block img {
+height: 250px;
+width: 250px;
+padding: 20px;
+}
